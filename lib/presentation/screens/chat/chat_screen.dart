@@ -28,7 +28,7 @@ class _ChatHeader extends StatelessWidget {
           padding: EdgeInsets.all(3.0),
           child: CircleAvatar(
             backgroundImage: NetworkImage(
-                'https://media-bog1-1.cdn.whatsapp.net/v/t61.24694-24/328003974_856362182803223_8103816830264881299_n.jpg?ccb=11-4&oh=01_AdQPqXzDPM0wjvpQ6tDAQNKU632S-fCr85H6PUtdMjrycA&oe=65751FF5&_nc_sid=e6ed6c&_nc_cat=103'),
+                'https://t3.ftcdn.net/jpg/06/17/13/26/360_F_617132669_YptvM7fIuczaUbYYpMe3VTLimwZwzlWf.jpg'),
           )),
       iconTheme: const IconThemeData(color: Colors.black87),
       title: const Row(
